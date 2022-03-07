@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Samsung A52",
+      "price": "420"
+    },
+    {
+      "id": 2,
+      "name": "Iphone 11 Pro Max",
+      "price": "780"
+    },
+    {
+      "id": 3,
+      "name": "Xiaomi Note 10 Pro",
+      "price": "300"
+    },
+    {
+      "id": 4,
+      "name": "Iphone 8 Plus",
+      "price": "340"
+    },
+    {
+      "id": 5,
+      "name": "Oneplus 8T",
+      "price": "680"
+    }
+  ]
+}
